@@ -24,3 +24,5 @@ Open-source SDKs for modern fintech APIs.
 - Payments Infrastructure
 - Distributed Systems
 - Reliability Engineering
+
+Maintained by Kanishka Naik.
