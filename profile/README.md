@@ -1,28 +1,61 @@
 # Fintech SDK
 
-Open-source SDKs for modern fintech APIs.
+Open-source, production-ready SDKs for leading fintech APIs, built with
+a strong focus on developer experience, reliability, and type safety.
 
 ## Supported Platforms
 
-- Wise
-- Checkout.com
-- TrueLayer
-- Yapily
-- Tink
-- GoCardless
-- Currencycloud
+-   Adyen
+-   Checkout.com
+-   ClearBank
+-   Codat
+-   Currencycloud
+-   GoCardless
+-   Marqeta
+-   Mercury
+-   OBIE
+-   Railsr
+-   Rapyd
+-   Revolut
+-   Salt Edge
+-   Setu
+-   Solaris
+-   Tink
+-   Token.io
+-   TrueLayer
+-   Wise
+-   Yapily
+
+> More fintech platforms are continuously being added.
 
 ## Languages
 
-- Go
-- Node.js
-- Elixir
+-   Go
+-   TypeScript
+-   Elixir
 
 ## Focus Areas
 
-- Open Banking
-- Payments Infrastructure
-- Distributed Systems
-- Reliability Engineering
+-   Open Banking
+-   Embedded Finance
+-   Banking-as-a-Service
+-   Payment Processing
+-   Payment Infrastructure
+-   Card Issuing
+-   Financial Data APIs
+-   Cross-Border Payments
+-   Distributed Systems
+-   Reliability Engineering
 
-Maintained by Kanishka Naik.
+## Package Registries
+
+Find the SDK for your preferred language using the official package
+registries:
+
+-   **Elixir (Hex):** https://hex.pm/users/kanishkanaik
+-   **Node.js / TypeScript (npm):** https://www.npmjs.com/\~kanishkanaik
+-   **Go (pkg.go.dev):** https://pkg.go.dev/search?q=iamkanishka
+
+## Maintainer
+
+Maintained by **[Kanishka Naik](https://github.com/iamkanishka)**.
