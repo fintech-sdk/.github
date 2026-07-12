@@ -25,6 +25,8 @@ a strong focus on developer experience, reliability, and type safety.
 -   TrueLayer
 -   Wise
 -   Yapily
+-   Paysafe
+-   Increase
 
 > More fintech platforms are continuously being added.
 
