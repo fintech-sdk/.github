@@ -27,6 +27,12 @@ a strong focus on developer experience, reliability, and type safety.
 -   Yapily
 -   Paysafe
 -   Increase
+-   Sumup
+-   Xero
+-   Weavr
+-   TreasuryPrime
+-   Moov
+-   StarlingBank
 
 > More fintech platforms are continuously being added.
 
