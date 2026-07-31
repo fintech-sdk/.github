@@ -52,8 +52,6 @@ a strong focus on developer experience, reliability, and type safety.
 -   Card Issuing
 -   Financial Data APIs
 -   Cross-Border Payments
--   Distributed Systems
--   Reliability Engineering
 
 ## Package Registries
 
