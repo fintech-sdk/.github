@@ -33,6 +33,10 @@ a strong focus on developer experience, reliability, and type safety.
 -   TreasuryPrime
 -   Moov
 -   StarlingBank
+-   Tiplati
+-   Triple
+-   Ramp
+-   bankingCircle
 
 > More fintech platforms are continuously being added.
 
